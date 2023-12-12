@@ -1,0 +1,1 @@
+Go from beginner to professional with generative AI and Python! Create powerful, real-world apps utilizing top tools like ChatGPT, Google PaLM, and LlamaIndex, and explore the very foundations of what makes them function. Plus, you’ll also dive into Python automation and data science techniques to enhance your skills
